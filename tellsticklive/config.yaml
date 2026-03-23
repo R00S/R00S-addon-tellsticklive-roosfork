@@ -11,14 +11,11 @@
 # slug: tellsticklive  → same as the old stable slug so HAOS treats each
 #                        new edge build as an update to the already-installed app.
 name: TellStick Local
-version: 2.4.6.0.20260323105431
+version: 2.4.7.0.20260323131506
 slug: tellsticklive
 image: ghcr.io/r00s/tellstick-local/{arch}
 description: >-
-  ⚠️ You are on the DEV channel (addon-tellsticklive-roosfork). This channel
-  receives the latest unreleased features and may be unstable. For the stable
-  release, switch your HAOS repository to
-  https://github.com/R00S/addon-tellstick-local — see the README for details.
+  ⚠️ You are on the DEV channel (addon-tellsticklive-roosfork). This channel receives the latest unreleased features and may be unstable. For the stable release, switch your HAOS repository to https://github.com/R00S/addon-tellstick-local — see the README for details.
 url: https://github.com/R00S/addon-tellsticklive-roosfork
 arch:
   - aarch64
