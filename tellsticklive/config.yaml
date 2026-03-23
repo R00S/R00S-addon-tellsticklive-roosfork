@@ -11,7 +11,7 @@
 # slug: tellsticklive  → same as the old stable slug so HAOS treats each
 #                        new edge build as an update to the already-installed app.
 name: TellStick Local
-version: 2.4.10.0.20260323141937
+version: 2.4.10.0.20260323142028
 slug: tellsticklive
 image: ghcr.io/r00s/tellsticklive/{arch}
 description: >-
